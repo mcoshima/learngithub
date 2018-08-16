@@ -4,3 +4,4 @@ a <- 7:20*3
 y = x*.5
 plot(x~y)
 plot(x~y)
+plot(x~y, col = "red")
