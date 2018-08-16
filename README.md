@@ -1,2 +1,6 @@
-# learngithub
-Learning Github
+# GitHub Lesson at GCRL SWT
+Learning Github at the GCRL Summer Workshop Training Series.  
+
+In this lesson, we learned how to:
+* Create a GH project
+* Clone a repository
